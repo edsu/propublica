@@ -15,9 +15,10 @@ not been active at all.
 
 ## Install
 
-You will need Python3 to run the 
+You will need Python3 to use this project. It depends on the *requests* and
+*pytest* modules which can be installed with:
 
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 You will also need to get a ProPublica API [key] and store it in a file in this
 directory called *key.txt*.
