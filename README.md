@@ -42,6 +42,5 @@ You can run some unit tests for the propublica module using [pytest]:
 MIT
 
 
-[ProPublica Congress API]:
-https://www.propublica.org/datastore/api/propublica-congress-api [key]:
-https://www.propublica.org/datastore/api/propublica-congress-apik
+[ProPublica Congress API]: https://www.propublica.org/datastore/api/propublica-congress-api
+[key]: https://www.propublica.org/datastore/api/propublica-congress-apik
