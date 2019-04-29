@@ -7,9 +7,9 @@ Representatives members for a given state, and then retrieves the bills that
 they have introduced. The *propublica* module contains classes for interacting
 with the ProPublica API and for modeling states, representatives, and bills.
 
-The supplied program *md.py* uses the *propublica* module to fetch all the
-representatives for the state of Maryland, and prints out the bills that they
-have introduced. The idea is that it could be used to get a sense of what
+The supplied program *maryland-bills.py* uses the *propublica* module to fetch
+all the representatives for the state of Maryland, and prints out the bills that
+they have introduced. The idea is that it could be used to get a sense of what
 activities your representative is up to. It also highlights which members have
 not been active at all.
 
@@ -25,11 +25,11 @@ directory called *key.txt*.
 
 ## Run
 
-A sample program `md.py` will use the propublica module to go through all the
-House members from Maryland and print out the bills that they have introduced.
-You can run it like this:
+A sample program `maryland-bills.py` will use the propublica module to go
+through all the House members from Maryland and print out the bills that they
+have introduced.  You can run it like this:
 
-    python md.py
+    python maryland-bills.py
 
 ## Test
 
